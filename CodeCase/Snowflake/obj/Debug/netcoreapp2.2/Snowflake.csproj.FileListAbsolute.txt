@@ -1,0 +1,11 @@
+E:\MyMaterial\code\LYPCode\CodeCase\Snowflake\bin\Debug\netcoreapp2.2\Snowflake.deps.json
+E:\MyMaterial\code\LYPCode\CodeCase\Snowflake\bin\Debug\netcoreapp2.2\Snowflake.runtimeconfig.json
+E:\MyMaterial\code\LYPCode\CodeCase\Snowflake\bin\Debug\netcoreapp2.2\Snowflake.runtimeconfig.dev.json
+E:\MyMaterial\code\LYPCode\CodeCase\Snowflake\bin\Debug\netcoreapp2.2\Snowflake.dll
+E:\MyMaterial\code\LYPCode\CodeCase\Snowflake\bin\Debug\netcoreapp2.2\Snowflake.pdb
+E:\MyMaterial\code\LYPCode\CodeCase\Snowflake\obj\Debug\netcoreapp2.2\Snowflake.csprojAssemblyReference.cache
+E:\MyMaterial\code\LYPCode\CodeCase\Snowflake\obj\Debug\netcoreapp2.2\Snowflake.csproj.CoreCompileInputs.cache
+E:\MyMaterial\code\LYPCode\CodeCase\Snowflake\obj\Debug\netcoreapp2.2\Snowflake.AssemblyInfoInputs.cache
+E:\MyMaterial\code\LYPCode\CodeCase\Snowflake\obj\Debug\netcoreapp2.2\Snowflake.AssemblyInfo.cs
+E:\MyMaterial\code\LYPCode\CodeCase\Snowflake\obj\Debug\netcoreapp2.2\Snowflake.dll
+E:\MyMaterial\code\LYPCode\CodeCase\Snowflake\obj\Debug\netcoreapp2.2\Snowflake.pdb
